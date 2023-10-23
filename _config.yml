@@ -1,15 +1,15 @@
 # Site wide configuration
 
-title: Site Title
+title: "Ioana's Github Site"
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Ioana
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "Ioana (pronounced ee-wa-na, she/her) Marin is a neuroscientist and community builder, originally from Romania. She attended Lafayette College (Easton, PA) as a FLI student (first gen/ low income), and later received her PhD in Neuroscience from the University of Virginia. Prior to moving to Oregon, she was a postdoc at Stanford University, working with Dr. Carla Shatz. "
+  email: ioanaa.marin@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
